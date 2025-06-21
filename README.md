@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Yamkela 👋
 
-<!--
-**Yamkela95/Yamkela95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Audit Senior @ SNG Grant Thornton | Data Analysis Enthusiast | Lifelong Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👔 About Me
+
+I'm an Audit Senior at SNG Grant Thornton with a passion for data analysis and a keen interest in mastering Big Data skills. My professional journey is driven by curiosity, continuous improvement, and a commitment to delivering insight and value through data.
+
+---
+
+### 💡 What I Do
+
+- **Audit & Assurance:** Ensuring accuracy, transparency, and compliance in financial reporting.
+- **Data Analysis:** Turning data into actionable insights to support business decisions.
+- **Learning Big Data:** Always expanding my toolkit—currently exploring new Big Data technologies and methods.
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/feed/)
+- ✉️ YamkelaMnotoza@outlook.com
+
+---
+
